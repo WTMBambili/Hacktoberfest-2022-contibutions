@@ -3,12 +3,10 @@
 
 Add your changes to `Profile.md` file in the `Task2` directory. 
 
- 
  - Create a new branch for this task and call it `second-task`.
-
-        ```bash
-
+    ```bash
         git checkout -b second-task
+    ```
 Here is an example:
 
 ```markdown
@@ -36,7 +34,7 @@ linkedIn username
 ```
 
 - Commit these changes and make a pull request for this task.
-     ```markdown
+    ```markdown
         git commit -m "feat: added <username> profile"
 
         git push

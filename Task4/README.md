@@ -1,7 +1,12 @@
 
 - [**Task 4 (Project)**](./Task4/README.md)
 
+ Create a new branch
+```bash
+        git checkout -b fourth-task
+```
 Create a `hello_world_yourusername.xx` script to the `Task4` directory in any language of your choice! Here is an example:
+
 
 ```Javascript
 // LANGUAGE: Javascript
