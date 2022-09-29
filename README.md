@@ -80,12 +80,10 @@ git push origin branch-name
 
 Add your changes to `Profile.md` file in the `Task2` directory. 
 
- 
  - Create a new branch for this task and call it `second-task`.
-
-        ```bash
-
+    ```bash
         git checkout -b second-task
+    ```
 Here is an example:
 
 ```markdown
@@ -123,10 +121,12 @@ linkedIn username
   - [**Task 3 (Coding Experience)**](./Task3/README.md)
 
    Create a new branch
+   ```bash
+        git checkout -b third-task
+    ```
     - Add changes to `Coding-experience.md` file in the `Task3` directory
     - This task is in relation to your coding experience and even if you dont have any experience thats still fine!!! It's done as follows:
-       ```markdown
-
+    ```markdown
     ### Favorite Programming language
 
     - Python
@@ -150,6 +150,10 @@ linkedIn username
 
 - [**Task 4 (Project)**](./Task4/README.md)
 
+ Create a new branch
+```bash
+        git checkout -b fourth-task
+```
 Create a `hello_world_yourusername.xx` script to the `Task4` directory in any language of your choice! Here is an example:
 
 ```Javascript
