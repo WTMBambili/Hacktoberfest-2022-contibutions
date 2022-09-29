@@ -54,7 +54,7 @@ git push origin branch-name
 * Create a branch
 
 ```markdown
-    git checkout -b firts-task
+    git checkout -b first-task
 ```
 
 ```markdown
@@ -66,12 +66,12 @@ git push origin branch-name
 
  - Commit the changes made and push
 
-        ```bash
+     ```bash
         git commit -m "feat: added <username> as contributor"
 
         git push -u
 
-        ```
+    ```
     >> Note: All pull requests should be opened between the  1<sup>st</sup> of October, and  31<sup>st</sup> of October will be counted by the HacktoberFest team Thanks for understanding.
     - Go to your github and a pull request
 
