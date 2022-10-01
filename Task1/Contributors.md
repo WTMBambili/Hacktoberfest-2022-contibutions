@@ -8,3 +8,9 @@
 - Place: Bamenda, Cameroon
 - Bio: 
 - GitHub: [steph237](https://github.com/steph237)
+
+
+#### Name: [YEKOV CINDY](https://github.com/tcyekov)
+-Place: Bamenda, Cameroon
+-Bio: Aspiring software engineer
+-GitHUb: [tcyekov](https://github.com/tcyekov)
