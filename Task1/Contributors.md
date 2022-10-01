@@ -8,3 +8,8 @@
 - Place: Bamenda, Cameroon
 - Bio: 
 - GitHub: [steph237](https://github.com/steph237)
+
+#### Name: [Agien Petra](https://github.com/petramma)
+- Place: Bamenda, Cameroon
+- Bio: lover of tech
+- GitHub: [petramma](https://github.com/petramma)
