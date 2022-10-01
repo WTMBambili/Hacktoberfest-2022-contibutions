@@ -22,3 +22,15 @@ steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascienc
 ### Little project bio
 
 A #0 day challenge for learning Data science using python
+
+### Favorite Programming language
+
+- Python
+
+### Project link
+
+Hawawou (https://github.com/Hawawou/bach_pro)
+
+### Little project bio
+
+A model that analyses the sentiment of a text
