@@ -21,7 +21,7 @@ Vanessa-Kris (https://github.com/Vanessa-Kris)
 
 Vanessa CHristopher
 
-# Stephanie Nkwatoh
+#  Stephanie Nkwatoh
 
 ### Location
 
@@ -43,3 +43,26 @@ steph237 (https://github.com/steph237)
 ### LinkedIn Handle
 
 Stephanie Nkwatoh
+
+# Hawawou Oumarou
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Engineering
+
+### Interests
+
+- Music, science.
+
+
+### Profile Link
+
+Hawawou (https://github.com/Hawawou)
+
+### LinkedIn Handle
+
+Hawawou Oumarou
