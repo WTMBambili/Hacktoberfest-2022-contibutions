@@ -43,3 +43,27 @@ steph237 (https://github.com/steph237)
 ### LinkedIn Handle
 
 Stephanie Nkwatoh
+
+
+# Arthur
+
+### Location
+
+France
+
+### Academics
+
+None yet
+
+### Interests
+
+- Technology, coding and video editing as well as video games.
+
+
+### Profile Link
+
+Artlfmj (https://github.com/Artlfmj)
+
+### LinkedIn Handle
+
+None

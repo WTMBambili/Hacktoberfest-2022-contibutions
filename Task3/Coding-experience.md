@@ -19,6 +19,14 @@ A website I made for a small online store.
 
 steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
 
+# Artlfmj (https://github.com/Artlfmj/updatebot)
+
+
 ### Little project bio
 
-A #0 day challenge for learning Data science using python
+A bot which tracks Fortnite changes in game files and apis and posts them to a discord channel.
+
+### Favorite Programming language
+
+- Typescript
+- Javascript
