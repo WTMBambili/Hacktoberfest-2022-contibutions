@@ -15,11 +15,28 @@ There are 4 available tasks and each task will be considered as valid by the Hac
 
  
  ## Getting started
+
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
+
 ```markdown
 git clone https://github.com/your-username/hacktoberfest-2022-contributions
+```
+
+* Add the upstream branch to your project with the following command 
+  
+```markdown
+git remote add upstream https://github.com/WTMBambili/Hacktoberfest-2022-contibutions.git
+```
+
+* Fetch and merge from the upstream branch using 
+    
+```markdown
+git fetch upstream
+git checkout branch-name
+git merge upstream/main
+
 ```
 
 * Create a branch
