@@ -43,3 +43,23 @@ steph237 (https://github.com/steph237)
 ### LinkedIn Handle
 
 Stephanie Nkwatoh
+
+# Yekov Cindy
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+National Higher Polytechnic Institute Bamenda
+
+### Interests
+fashion, pastry, novels
+
+### Profile Link
+[Yekov Cindy](https://github.com/tcyekov)
+
+### LinkedIn Handle
+
+Yekov Cindy
