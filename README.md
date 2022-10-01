@@ -45,7 +45,7 @@ git merge upstream/main
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
+* Make your changes by copying and replacing the text according to the selected task(choose from any task below)
 * Commit and push
 
 ```markdown
