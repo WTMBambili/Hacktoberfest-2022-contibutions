@@ -20,3 +20,26 @@ Vanessa-Kris (https://github.com/Vanessa-Kris)
 ### LinkedIn Handle
 
 Vanessa CHristopher
+
+# Stephanie Nkwatoh
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Engineering
+
+### Interests
+
+- Food, music, designing.
+
+
+### Profile Link
+
+steph237 (https://github.com/steph237)
+
+### LinkedIn Handle
+
+Stephanie Nkwatoh
