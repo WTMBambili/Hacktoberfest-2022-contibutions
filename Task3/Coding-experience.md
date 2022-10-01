@@ -22,3 +22,15 @@ steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascienc
 ### Little project bio
 
 A #0 day challenge for learning Data science using python
+
+### Favorite Programming language
+
+- Dart
+
+### Project link
+
+petramma (https://github.com/petramma/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
+
+### Little project bio
+
+A 30 day challenge for learning flutter using dart
