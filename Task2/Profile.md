@@ -43,3 +43,26 @@ steph237 (https://github.com/steph237)
 ### LinkedIn Handle
 
 Stephanie Nkwatoh
+
+# Agien Petra
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Technology
+
+### Interests
+
+- Food, music, gaming.
+
+
+### Profile Link
+
+petramma (https://github.com/petramma)
+
+### LinkedIn Handle
+
+Petra
