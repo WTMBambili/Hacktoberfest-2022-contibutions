@@ -8,3 +8,8 @@
 - Place: Bamenda, Cameroon
 - Bio: 
 - GitHub: [steph237](https://github.com/steph237)
+
+#### Name: Hawawou Oumarou
+- Place: Bamenda, Cameroon
+- Bio: Tech Enthusiast, Machine Learning lover
+- Github: Hawawou https://github.com/Hawawou
