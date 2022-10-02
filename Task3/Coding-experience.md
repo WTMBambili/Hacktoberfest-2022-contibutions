@@ -99,3 +99,15 @@ NnamEl (https://github.com/NnamEl/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
 
 A 30 day challenge for learning Data science using python
 
+
+### Favorite Programming language
+
+- Javascript
+
+### Project link
+
+bersekerblade (https://github.com/bersekerblade/crudmixcode)
+
+### Little project bio
+
+Simple Crud Rest API using NodeJs and NextJs

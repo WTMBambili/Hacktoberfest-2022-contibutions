@@ -175,3 +175,26 @@ petramma (https://github.com/petramma)
 agien petra
 
 
+# Faiz Syahrullah
+
+
+### Location
+
+Batu, Indonesia
+
+### Academics
+
+Bachelor's of Mandarin Education
+
+### Interests
+
+- football, basket ball, coding
+
+### Profile Link
+
+bersekerblade (https://github.com/bersekerblade)
+
+### LinkedIn Handle
+
+Faiz Syahrullah
+

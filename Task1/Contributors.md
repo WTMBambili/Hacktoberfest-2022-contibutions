@@ -40,5 +40,9 @@
 - Bio: Sophomore Year University Student and an aspiring full stack web developer
 - GitHub: lifeashaze(https://github.com/lifeashaze)
 
+#### Name: Faiz Syahrullah https://github.com/bersekerblade
 
+- Place: Batu, Indonesia
+- Bio: I'm switch career on the role front end web developer
+- GitHub: bersekerblade(https://github.com/bersekerblade)
 
