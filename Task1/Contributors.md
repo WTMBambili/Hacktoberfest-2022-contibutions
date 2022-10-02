@@ -10,6 +10,11 @@
 - Bio:
 - GitHub: [steph237](https://github.com/steph237)
 
+#### Name: [YEKOV CINDY](https://github.com/tcyekov)
+-Place: Bamenda, Cameroon
+-Bio: Aspiring software engineer
+-GitHUb: [tcyekov](https://github.com/tcyekov)
+
 #### Name: Hawawou Oumarou
 
 - Place: Bamenda, Cameroon
@@ -21,3 +26,4 @@
 - Place: New Delhi, Delhi, India
 - Bio: I am an active and enthusiastic coder
 - GitHub: [ggauranshi-03](https://github.com/ggauranshi-03)
+
