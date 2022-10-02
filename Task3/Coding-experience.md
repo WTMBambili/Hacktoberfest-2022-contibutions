@@ -10,7 +10,6 @@ Vanessa-Kris (https://github.com/Vanessa-Kris/Stunners_web)
 
 A website I made for a small online store.
 
-
 ### Favorite Programming language
 
 - Python
@@ -34,3 +33,16 @@ Hawawou (https://github.com/Hawawou/bach_pro)
 ### Little project bio
 
 A model that analyses the sentiment of a text
+
+### Favorite Programming language
+
+- Python
+- Javascript
+
+### Project link
+
+[ggauranshi-03](https://github.com/ggauranshi-03/Keeper_Note_making)
+
+### Little project bio
+
+A note making app build in ReactJS
