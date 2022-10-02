@@ -128,3 +128,25 @@ Vishwakarma University
 
 Abhishek Bhagawati
 
+# Petra Agien
+
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Engineering
+
+### Interests
+
+- Music, science, dancing
+
+### Profile Link
+
+petramma (https://github.com/petramma)
+
+### LinkedIn Handle
+
+agien petra
