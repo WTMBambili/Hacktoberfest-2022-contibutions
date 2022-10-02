@@ -43,8 +43,7 @@ steph237 (https://github.com/steph237)
 Stephanie Nkwatoh
 
 
-# Hawawou Oumarou
-
+# Nnam Eleanor
 
 ### Location
 
@@ -52,6 +51,29 @@ Bamenda, Cameroon
 
 ### Academics
 
+Masters in Educational leadership
+
+### Interests
+
+- Food, music, helping.
+
+
+### Profile Link
+
+NnmaEl (https://github.com/NnamEl)
+
+### LinkedIn Handle
+
+Nnam Eleanor
+
+
+# Hawawou Oumarou
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
 Bachelor's of Engineering
 
 ### Interests
@@ -128,6 +150,7 @@ Vishwakarma University
 
 Abhishek Bhagawati
 
+
 # Petra Agien
 
 
@@ -150,3 +173,5 @@ petramma (https://github.com/petramma)
 ### LinkedIn Handle
 
 agien petra
+
+

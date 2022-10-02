@@ -10,6 +10,12 @@
 - Bio:
 - GitHub: [steph237](https://github.com/steph237)
 
+
+#### Name: [Nnam Eleanor](https://github.com/NnamEl)
+- Place: Bamenda, Cameroon
+- Bio: A social worker 
+- GitHub: [NnamEl](https://github.com/NnamEl)
+
 #### Name: [YEKOV CINDY](https://github.com/tcyekov)
 -Place: Bamenda, Cameroon
 -Bio: Aspiring software engineer
@@ -33,5 +39,6 @@
 - Place: Pune, Maharashtra, India
 - Bio: Sophomore Year University Student and an aspiring full stack web developer
 - GitHub: lifeashaze(https://github.com/lifeashaze)
+
 
 
