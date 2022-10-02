@@ -42,7 +42,9 @@ steph237 (https://github.com/steph237)
 
 Stephanie Nkwatoh
 
+
 # Hawawou Oumarou
+
 
 ### Location
 
@@ -63,6 +65,22 @@ Hawawou (https://github.com/Hawawou)
 ### LinkedIn Handle
 
 Hawawou Oumarou
+
+# Yekov Cindy
+
+### Academics
+National Higher Polytechnic Institute Bamenda
+
+### Interests
+fashion, pastry, novels
+
+### Profile Link
+[Yekov Cindy](https://github.com/tcyekov)
+
+### LinkedIn Handle
+
+Yekov Cindy
+
 
 # Gauranshi Gupta
 
@@ -85,3 +103,4 @@ Hillwoods Academy
 ### LinkedIn Handle
 
 Gauranshi Gupta
+
