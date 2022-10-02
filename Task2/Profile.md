@@ -12,7 +12,6 @@ NIL
 
 - Food, music, problem solving.
 
-
 ### Profile Link
 
 Vanessa-Kris (https://github.com/Vanessa-Kris)
@@ -21,7 +20,7 @@ Vanessa-Kris (https://github.com/Vanessa-Kris)
 
 Vanessa CHristopher
 
-#  Stephanie Nkwatoh
+# Stephanie Nkwatoh
 
 ### Location
 
@@ -34,7 +33,6 @@ Bachelor's of Engineering
 ### Interests
 
 - Food, music, designing.
-
 
 ### Profile Link
 
@@ -58,7 +56,6 @@ Bachelor's of Engineering
 
 - Music, science.
 
-
 ### Profile Link
 
 Hawawou (https://github.com/Hawawou)
@@ -66,3 +63,25 @@ Hawawou (https://github.com/Hawawou)
 ### LinkedIn Handle
 
 Hawawou Oumarou
+
+# Gauranshi Gupta
+
+### Location
+
+Delhi, India
+
+### Academics
+
+Hillwoods Academy
+
+### Interests
+
+- Watching Movies, Website development
+
+### Profile Link
+
+[ggauranshi-03](https://github.com/ggauranshi-03)
+
+### LinkedIn Handle
+
+Gauranshi Gupta
