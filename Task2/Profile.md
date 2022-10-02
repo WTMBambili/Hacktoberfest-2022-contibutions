@@ -104,3 +104,27 @@ Hillwoods Academy
 
 Gauranshi Gupta
 
+
+
+# Abhishek Bhagawati
+
+### Location
+
+Pune/India
+
+### Academics
+
+Vishwakarma University
+
+### Interests
+
+- Building PCs, Tinkering with softwares, UX/UI Design
+
+### Profile Link
+
+[lifeashaze](https://github.com/lifeashaze)
+
+### LinkedIn Handle
+
+Abhishek Bhagawati
+
