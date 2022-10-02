@@ -46,3 +46,22 @@ A model that analyses the sentiment of a text
 ### Little project bio
 
 A note making app build in ReactJS
+
+
+### Favorite Programming language
+
+- C++
+- Python
+
+### Project link
+
+[lifeashaze](https://github.com/lifeashaze/Hazikeen)
+
+### Little project bio
+
+A Discord Bot written in discord.js which has:
+Server Moderation
+Utility Commands
+Music Commands
+Miscellanous Commands
+
