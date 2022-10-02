@@ -23,6 +23,7 @@ steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascienc
 A #0 day challenge for learning Data science using python
 
 
+
 ### Favorite Programming language
 -Javascript
 
@@ -61,11 +62,7 @@ A note making app build in ReactJS
 
 
 ### Favorite Programming language
-
 - C++
-- Python
-
-### Project link
 
 [lifeashaze](https://github.com/lifeashaze/Hazikeen)
 
@@ -78,3 +75,15 @@ Music Commands
 Miscellanous Commands
 
 
+
+### Favorite Programming language
+
+- Python
+
+### Project link
+
+NnamEl (https://github.com/NnamEl/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
+
+### Little project bio
+
+A 30 day challenge for learning Data science using python
