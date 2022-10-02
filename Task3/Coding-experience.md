@@ -77,4 +77,14 @@ Utility Commands
 Music Commands
 Miscellanous Commands
 
+### Favorite Programming language
 
+- Dart
+
+### Project link
+
+petramma (https://github.com/petramma/WTM-GDG-Bambili-30-Days-of-Code-flutter)
+
+### Little project bio
+
+A 30 day challenge for learning flutter using dart
