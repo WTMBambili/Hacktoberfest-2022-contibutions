@@ -27,3 +27,11 @@
 - Bio: I am an active and enthusiastic coder
 - GitHub: [ggauranshi-03](https://github.com/ggauranshi-03)
 
+
+#### Name: lifeashaze https://github.com/lifeashaze
+
+- Place: Pune, Maharashtra, India
+- Bio: Sophomore Year University Student and an aspiring full stack web developer
+- GitHub: lifeashaze(https://github.com/lifeashaze)
+
+

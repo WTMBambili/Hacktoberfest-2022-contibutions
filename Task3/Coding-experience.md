@@ -22,6 +22,17 @@ steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascienc
 
 A #0 day challenge for learning Data science using python
 
+
+### Favorite Programming language
+-Javascript
+
+### Project link
+[Yekov Cindy](https://github.com/tcyekov/50-coding-challenges)
+
+### Little project bio
+This project helps to understand Javascript by providing exercises to solve.
+
+
 ### Favorite Programming language
 
 - Python
@@ -48,6 +59,7 @@ A model that analyses the sentiment of a text
 A note making app build in ReactJS
 
 
+
 ### Favorite Programming language
 
 - C++
@@ -64,4 +76,5 @@ Server Moderation
 Utility Commands
 Music Commands
 Miscellanous Commands
+
 
