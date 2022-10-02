@@ -41,4 +41,9 @@
 - GitHub: lifeashaze(https://github.com/lifeashaze)
 
 
+#### Name: [Steve Yonkeu](https://yokwejuste.me)
+- Place: Bamenda, Cameroon
+- Bio: I'm Steve Yonkeu, aspiring computer engineer residing in Cameroon
+- GitHub: [Yokwejuste](https://github.com/yokwejuste)
+
 
