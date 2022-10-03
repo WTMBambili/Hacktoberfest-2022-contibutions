@@ -196,3 +196,26 @@ University of Bamenda
 ### LinkedIn Handle
 
 Yokwejuste
+
+
+# Anant Jain
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Arwachin International School
+
+### Interests
+
+Coding, Sports
+
+### Profile Link
+
+[AnantJainn](https://github.com/AnantJainn)
+
+### LinkedIn Handle
+
+Anant Jain
