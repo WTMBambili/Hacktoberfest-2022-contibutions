@@ -52,3 +52,14 @@
 - GitHub: [Yokwejuste](https://github.com/yokwejuste)
 
 
+#### Name: [Anant Jain](https://github.com/AnantJainn)
+
+- Place: New Delhi, Delhi, India
+- Bio: Full Stack Web Developer and Blockchain Developer.
+- GitHub: [AnantJainn](https://github.com/AnantJainn)
+
+#### Name: [Petra Ukeh](https://github.com/petramma)
+- Place: Bamenda, Cameroon
+- Bio: A software engineer 
+- GitHub: [petramma](https://github.com/petramma)
+
