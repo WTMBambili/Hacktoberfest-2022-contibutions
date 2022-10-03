@@ -46,4 +46,7 @@
 - Bio: I'm Steve Yonkeu, aspiring computer engineer residing in Cameroon
 - GitHub: [Yokwejuste](https://github.com/yokwejuste)
 
-
+#### Name: [Petra Ukeh](https://github.com/petramma)
+- Place: Bamenda, Cameroon
+- Bio: A software engineer 
+- GitHub: [petramma](https://github.com/petramma)
