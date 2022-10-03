@@ -46,4 +46,8 @@
 - Bio: I'm Steve Yonkeu, aspiring computer engineer residing in Cameroon
 - GitHub: [Yokwejuste](https://github.com/yokwejuste)
 
+#### Name: [Anant Jain](https://github.com/AnantJainn)
 
+- Place: New Delhi, Delhi, India
+- Bio: Full Stack Web Developer and Blockchain Developer.
+- GitHub: [AnantJainn](https://github.com/AnantJainn)
