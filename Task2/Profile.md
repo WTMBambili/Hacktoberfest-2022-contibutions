@@ -198,3 +198,26 @@ bersekerblade (https://github.com/bersekerblade)
 
 Faiz Syahrullah
 
+=======
+# Steve Yonkeu
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- I like koki, no sorry I love it!!!
+
+### Profile Link
+
+[STEVE YONKEU](https://github.com/yokwejuste)
+
+### LinkedIn Handle
+
+Yokwejuste
+

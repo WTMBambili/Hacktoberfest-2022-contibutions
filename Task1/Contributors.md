@@ -45,4 +45,10 @@
 - Place: Batu, Indonesia
 - Bio: I'm switch career on the role front end web developer
 - GitHub: bersekerblade(https://github.com/bersekerblade)
+=======
+#### Name: [Steve Yonkeu](https://yokwejuste.me)
+- Place: Bamenda, Cameroon
+- Bio: I'm Steve Yonkeu, aspiring computer engineer residing in Cameroon
+- GitHub: [Yokwejuste](https://github.com/yokwejuste)
+
 
