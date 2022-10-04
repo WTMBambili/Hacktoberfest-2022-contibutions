@@ -150,6 +150,28 @@ Vishwakarma University
 
 Abhishek Bhagawati
 
+# Hiya Shivnani
+
+### Location
+
+Pune, Maharashtra
+
+### Academics
+
+Bachelor's of Technology, Vishwakarma Institute of Information Technology
+
+### Interests
+
+- Reading, Baking, coding for Robots
+
+### Profile Link
+
+[69poisonivy69](https://github.com/69poisonivy69)
+
+### LinkedIn Handle
+
+Hiya Shivnani
+
 
 # Petra Agien
 
