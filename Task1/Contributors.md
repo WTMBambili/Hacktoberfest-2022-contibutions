@@ -40,6 +40,12 @@
 - Bio: Sophomore Year University Student and an aspiring full stack web developer
 - GitHub: lifeashaze(https://github.com/lifeashaze)
 
+#### Name: [Hiya Shivnani](https://github.com/69poisonivy69)
+
+- Place: Pune, Maharashtra, India
+- Bio: A student, home-baker and a cookie enthusiast.
+- GitHub: [69poisonivy69](https://github.com/69poisonivy69)
+
 
 #### Name: [Steve Yonkeu](https://yokwejuste.me)
 - Place: Bamenda, Cameroon
