@@ -219,3 +219,25 @@ Coding, Sports
 ### LinkedIn Handle
 
 Anant Jain
+
+# Mavia technologies
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Technology school, upstation
+
+### Interests
+
+Coding, teaching
+
+### Profile Link
+
+[mavaitech](https://github.com/maviatech)
+
+### LinkedIn Handle
+
+Maviatech
