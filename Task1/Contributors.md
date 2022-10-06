@@ -58,3 +58,7 @@
 - Bio: A software engineer 
 - GitHub: [petramma](https://github.com/petramma)
 
+#### Name: [Mavia technologies](https://github.com/maviatech)
+- Place: Bamenda, Cameroon
+- Bio: A software engineer 
+- GitHub: [maviatech](https://github.com/maviatech)
