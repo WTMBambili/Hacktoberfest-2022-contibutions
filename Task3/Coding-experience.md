@@ -113,3 +113,15 @@ A 30 day challenge for learning Data science using python
   ### Little project bio
 
   This helps people to connect via video call and chat with each other in real-time.
+  
+ ### Favorite Programming language
+
+- Python
+
+### Project link
+
+maviatech (https://github.com/maviatech/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
+
+### Little project bio
+
+A 30 day challenge for learning Data science using python
