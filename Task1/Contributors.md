@@ -58,3 +58,9 @@
 - Bio: A software engineer 
 - GitHub: [petramma](https://github.com/petramma)
 
+#### Name: [Earl Millen](https://github.com/akwe-afriitech)
+- Place: Bamenda, Cameroon
+- Bio: Web and mobile app developer 
+- GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
+
+
