@@ -58,3 +58,8 @@
 - Bio: A software engineer 
 - GitHub: [petramma](https://github.com/petramma)
 
+#### Name: [Vishal](https://github.com/vishalrock1912)
+- Place: New Delhi, Delhi, India
+- Bio: I'm a big rock of ideas.
+- GitHub: [vishal](https://github.com/vishalrock1912)
+
