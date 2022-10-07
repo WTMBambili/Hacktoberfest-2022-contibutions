@@ -63,4 +63,7 @@
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
 
-
+#### Name: [KOM ZEKING PAULE URSULLA](https://github.com/uzeking6)
+- Place: Bamenda, Northwest, Cameroon
+- Bio: cybersecurity lover
+- GitHub: useking6  https://github.com/uzeking6
