@@ -219,3 +219,27 @@ Coding, Sports
 ### LinkedIn Handle
 
 Anant Jain
+
+
+
+# Earl Millen
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love MCU and i love solving problems too
+
+### Profile Link
+
+[Earl Millen](https://github.com/akwe-afriitech)
+
+### LinkedIn Handle
+
+Earl Millen
