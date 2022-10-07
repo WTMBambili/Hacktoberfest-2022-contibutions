@@ -128,3 +128,16 @@ A 30 day challenge for learning Data science using python
 ### Little project bio
 
 A mobile application which generates customisable paylinks to recieve payments
+
+
+### Favorite Programming language
+
+- Python
+
+### Project link
+
+[uzeking6](https://github.com/istudybucket/istudybucket-backend)
+
+### Little project bio
+
+The project focuses on the services which will consume requests from our mobile and web applications.
