@@ -219,3 +219,23 @@ Coding, Sports
 ### LinkedIn Handle
 
 Anant Jain
+
+
+# Vishal
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Delhi institute of tool engineering
+
+### Interests
+
+Anime
+
+### Profile Link
+
+[Vishal](https://github.com/vishalrock1912)
+
