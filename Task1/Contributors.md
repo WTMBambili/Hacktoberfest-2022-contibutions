@@ -63,4 +63,8 @@
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
 
+#### Name: [Zhoplo](https://github.com/zhoplo-0)
+- Place: Bangalore,India
+- Bio: Aspiring Software Dev
+- GitHub: [zhoplo-0](https://github.com/zhoplo-0)
 
