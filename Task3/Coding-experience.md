@@ -128,3 +128,25 @@ A 30 day challenge for learning Data science using python
 ### Little project bio
 
 A mobile application which generates customisable paylinks to recieve payments
+
+
+
+
+
+
+
+### Favorite Programming language
+
+- Python
+- C++
+- C
+- Java
+
+### Project link
+
+[Zhoplo](https://github.com/zhoplo-0/Poindexters)
+
+### Little project bio
+
+A repo for miscellaneous programs.
+This projects does......
