@@ -128,3 +128,17 @@ A 30 day challenge for learning Data science using python
 ### Little project bio
 
 A mobile application which generates customisable paylinks to recieve payments
+
+
+### Favorite Programming language
+
+- Java
+- Javascript
+
+### Project link
+
+[Aditya Singh](https://github.com/Adi-ty/Covid-19-Tracker)
+
+### Little project bio
+
+A web application which tracks all the latest updates of covid cases around the world
