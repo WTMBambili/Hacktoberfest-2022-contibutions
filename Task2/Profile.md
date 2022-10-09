@@ -243,3 +243,26 @@ University of Bamenda
 ### LinkedIn Handle
 
 Earl Millen
+
+
+# Aditya Singh
+
+### Location
+
+Delhi, India
+
+### Academics
+
+D.A.V Public School
+
+### Interests
+
+- Crypto trading, NFT, web development and dancing.
+
+### Profile Link
+
+[Adi-ty](https://github.com/Adi-ty)
+
+### LinkedIn Handle
+
+Aditya Singh
