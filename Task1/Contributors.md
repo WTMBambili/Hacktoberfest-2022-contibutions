@@ -63,4 +63,9 @@
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
 
+#### Name: [ADITYA SINGH](https://github.com/Adi-ty)
+
+- Place: New Delhi, Delhi, India
+- Bio: I am a competitive coder and a developer.
+- GitHub: [Adi-ty](https://github.com/Adi-ty)
 
