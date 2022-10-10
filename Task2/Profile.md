@@ -355,3 +355,24 @@ University of Bamenda
 KOM ZEKING PAULE URSULLA
 
 
+# Ayush Gupta
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Ramjas School Pusa Road,New Delhi
+
+### Interests
+
+Coding, Reading
+
+### Profile Link
+
+[ayushgupta4002](https://github.com/ayushgupta4002)
+
+### LinkedIn Handle
+
+Ayush Gupta
