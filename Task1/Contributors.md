@@ -59,9 +59,16 @@
 - Bio: A software engineer 
 - GitHub: [petramma](https://github.com/petramma)
 
+
 #### Name: Mavia technologies https://github.com/maviatech
 
 - Place: Bamenda, Northwest, Cameroon
 - Bio: I'm a tech enthusiast and sucker for open source.
 - GitHub: maviatech https://github.com/maviatech
+
+#### Name: [Earl Millen](https://github.com/akwe-afriitech)
+- Place: Bamenda, Cameroon
+- Bio: Web and mobile app developer 
+- GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
+
 
