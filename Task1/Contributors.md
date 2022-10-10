@@ -31,7 +31,7 @@
 #### Name: [GAURANSHI GUPTA](https://github.com/ggauranshi-03)
 
 - Place: New Delhi, Delhi, India
-- Bio: I am an active and enthusiastic coder
+- Bio: I am an active and enthusiastic coder.
 - GitHub: [ggauranshi-03](https://github.com/ggauranshi-03)
 
 
