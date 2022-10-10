@@ -113,3 +113,18 @@ A 30 day challenge for learning Data science using python
   ### Little project bio
 
   This helps people to connect via video call and chat with each other in real-time.
+  
+  
+
+### Favorite Programming language
+
+- Javascript
+- Dart
+
+### Project link
+
+[Ear Millen](https://github.com/akwe-afriitech/momo-universe.)
+
+### Little project bio
+
+A mobile application which generates customisable paylinks to recieve payments
