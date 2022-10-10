@@ -176,3 +176,16 @@ This projects does......
 
 The project focuses on the services which will consume requests from our mobile and web applications.
 
+### Favorite Programming language
+
+- Javascript
+- C
+- Java
+
+### Project link
+
+[ayushgupta4002](https://github.com/ayushgupta4002/Crypto-Seeker-Webapp.github.io)
+
+### Little project bio
+
+A project that displays live prices of top cryptocurrencies.
