@@ -219,3 +219,50 @@ Coding, Sports
 ### LinkedIn Handle
 
 Anant Jain
+
+# Mavia technologies
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Technology school, upstation
+
+### Interests
+
+Coding, teaching
+
+### Profile Link
+
+[mavaitech](https://github.com/maviatech)
+
+### LinkedIn Handle
+
+Maviatech
+
+
+
+# Earl Millen
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love MCU and i love solving problems too
+
+### Profile Link
+
+[Earl Millen](https://github.com/akwe-afriitech)
+
+### LinkedIn Handle
+
+Earl Millen
+
