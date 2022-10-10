@@ -309,3 +309,25 @@ Earl Millen
 
 
 
+# KOM ZEKING PAULE URSULLA
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love Music, graphics,singing 
+
+### Profile Link
+
+[uzeking6](https://github.com/uzeking6)
+
+### LinkedIn Handle
+
+KOM ZEKING PAULE URSULLA
+
