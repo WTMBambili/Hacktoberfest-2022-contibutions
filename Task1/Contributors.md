@@ -21,6 +21,7 @@
 -Bio: Aspiring software engineer
 -GitHUb: [tcyekov](https://github.com/tcyekov)
 
+
 #### Name: Hawawou Oumarou
 
 - Place: Bamenda, Cameroon
@@ -40,6 +41,12 @@
 - Bio: Sophomore Year University Student and an aspiring full stack web developer
 - GitHub: lifeashaze(https://github.com/lifeashaze)
 
+#### Name: [Hiya Shivnani](https://github.com/69poisonivy69)
+
+- Place: Pune, Maharashtra, India
+- Bio: A student, home-baker and a cookie enthusiast.
+- GitHub: [69poisonivy69](https://github.com/69poisonivy69)
+
 
 #### Name: [Steve Yonkeu](https://yokwejuste.me)
 - Place: Bamenda, Cameroon
@@ -57,4 +64,17 @@
 - Place: Bamenda, Cameroon
 - Bio: A software engineer 
 - GitHub: [petramma](https://github.com/petramma)
+
+
+#### Name: Mavia technologies https://github.com/maviatech
+
+- Place: Bamenda, Northwest, Cameroon
+- Bio: I'm a tech enthusiast and sucker for open source.
+- GitHub: maviatech https://github.com/maviatech
+
+#### Name: [Earl Millen](https://github.com/akwe-afriitech)
+- Place: Bamenda, Cameroon
+- Bio: Web and mobile app developer 
+- GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
+
 
