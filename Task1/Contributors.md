@@ -83,6 +83,10 @@
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
 
+#### Name: [Yogender Singh](https://github.com/YOGENDERSS)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Data Science and Web development 
+- GitHub: [Storm_Chaser](https://github.com/YOGENDERS)
 
 #### Name: [KOM ZEKING PAULE URSULLA](https://github.com/uzeking6)
 - Place: Bamenda, Northwest, Cameroon
