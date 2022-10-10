@@ -243,6 +243,24 @@ Coding, Sports
 Anant Jain
 
 
+# Vishal
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Delhi institute of tool engineering
+
+### Interests
+
+Anime
+
+### Profile Link
+
+[Vishal](https://github.com/vishalrock1912)
+
 # Mavia technologies
 
 ### Location
@@ -288,5 +306,6 @@ University of Bamenda
 ### LinkedIn Handle
 
 Earl Millen
+
 
 

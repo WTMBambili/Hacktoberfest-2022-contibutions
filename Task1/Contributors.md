@@ -66,6 +66,12 @@
 - GitHub: [petramma](https://github.com/petramma)
 
 
+#### Name: [Vishal](https://github.com/vishalrock1912)
+- Place: New Delhi, Delhi, India
+- Bio: I'm a big rock of ideas.
+- GitHub: [vishal](https://github.com/vishalrock1912)
+
+
 #### Name: Mavia technologies https://github.com/maviatech
 
 - Place: Bamenda, Northwest, Cameroon
@@ -76,5 +82,6 @@
 - Place: Bamenda, Cameroon
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
+
 
 
