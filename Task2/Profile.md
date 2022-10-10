@@ -150,6 +150,28 @@ Vishwakarma University
 
 Abhishek Bhagawati
 
+# Hiya Shivnani
+
+### Location
+
+Pune, Maharashtra
+
+### Academics
+
+Bachelor's of Technology, Vishwakarma Institute of Information Technology
+
+### Interests
+
+- Reading, Baking, coding for Robots
+
+### Profile Link
+
+[69poisonivy69](https://github.com/69poisonivy69)
+
+### LinkedIn Handle
+
+Hiya Shivnani
+
 
 # Petra Agien
 
@@ -221,6 +243,47 @@ Coding, Sports
 Anant Jain
 
 
+# Vishal
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Delhi institute of tool engineering
+
+### Interests
+
+Anime
+
+### Profile Link
+
+[Vishal](https://github.com/vishalrock1912)
+
+# Mavia technologies
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Technology school, upstation
+
+### Interests
+
+Coding, teaching
+
+### Profile Link
+
+[mavaitech](https://github.com/maviatech)
+
+### LinkedIn Handle
+
+Maviatech
+
+
 
 # Earl Millen
 
@@ -246,6 +309,7 @@ Earl Millen
 
 
 
+
 # Zhoplo
 
 ### Location
@@ -267,4 +331,27 @@ Christ University
 ### LinkedIn Handle
 
 Zhoplo
+
+# KOM ZEKING PAULE URSULLA
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love Music, graphics,singing 
+
+### Profile Link
+
+[uzeking6](https://github.com/uzeking6)
+
+### LinkedIn Handle
+
+KOM ZEKING PAULE URSULLA
+
 
