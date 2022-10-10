@@ -150,6 +150,28 @@ Vishwakarma University
 
 Abhishek Bhagawati
 
+# Hiya Shivnani
+
+### Location
+
+Pune, Maharashtra
+
+### Academics
+
+Bachelor's of Technology, Vishwakarma Institute of Information Technology
+
+### Interests
+
+- Reading, Baking, coding for Robots
+
+### Profile Link
+
+[69poisonivy69](https://github.com/69poisonivy69)
+
+### LinkedIn Handle
+
+Hiya Shivnani
+
 
 # Petra Agien
 
@@ -238,4 +260,52 @@ Anime
 ### Profile Link
 
 [Vishal](https://github.com/vishalrock1912)
+
+# Mavia technologies
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Technology school, upstation
+
+### Interests
+
+Coding, teaching
+
+### Profile Link
+
+[mavaitech](https://github.com/maviatech)
+
+### LinkedIn Handle
+
+Maviatech
+
+
+
+# Earl Millen
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love MCU and i love solving problems too
+
+### Profile Link
+
+[Earl Millen](https://github.com/akwe-afriitech)
+
+### LinkedIn Handle
+
+Earl Millen
+
+
 
