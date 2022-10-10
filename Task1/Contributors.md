@@ -83,6 +83,12 @@
 - Bio: Web and mobile app developer 
 - GitHub: [akwe-afriitech](https://github.com/akwe-afriitech)
 
+
+#### Name: [Zhoplo](https://github.com/zhoplo-0)
+- Place: Bangalore,India
+- Bio: Aspiring Software Dev
+- GitHub: [zhoplo-0](https://github.com/zhoplo-0)
+
 #### Name: [Yogender Singh](https://github.com/YOGENDERSS)
 - Place: Chennai, Tamil Nadu, India
 - Bio: Data Science and Web development 
@@ -92,4 +98,5 @@
 - Place: Bamenda, Northwest, Cameroon
 - Bio: cybersecurity lover
 - GitHub: useking6  https://github.com/uzeking6
+
 
