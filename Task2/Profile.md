@@ -309,6 +309,29 @@ Earl Millen
 
 
 
+
+# Zhoplo
+
+### Location
+
+Bangalore, India
+
+### Academics
+
+Christ University
+
+### Interests
+
+- i love reading books and watching movies in my free time.
+
+### Profile Link
+
+[Zhoplo](https://github.com/zhoplo-0)
+
+### LinkedIn Handle
+
+Zhoplo
+
 # KOM ZEKING PAULE URSULLA
 
 ### Location
@@ -330,4 +353,5 @@ University of Bamenda
 ### LinkedIn Handle
 
 KOM ZEKING PAULE URSULLA
+
 
