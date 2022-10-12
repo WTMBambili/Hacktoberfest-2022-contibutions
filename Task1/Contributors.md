@@ -99,4 +99,8 @@
 - Bio: cybersecurity lover
 - GitHub: useking6  https://github.com/uzeking6
 
+#### Name: [NJI MARIETTE THERESE NEH](https://github.com/Nji-Mariette)
+- Place: Bamenda, Northwest, Cameroon
+- Bio: Aspiring Cybersecurity Annalyst and Web development lover
+- GitHub: Nji-Mariette  https://github.com/Nji-Mariette
 
