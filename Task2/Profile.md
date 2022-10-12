@@ -355,3 +355,24 @@ University of Bamenda
 KOM ZEKING PAULE URSULLA
 
 
+# NGUM BUTLAR NGWA
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- Designing(UI/UX), coding, anime fan, music lover, baking and pastry.
+
+### Profile Link
+
+[Ngumbutlar](https://github.com/Ngumbutlar)
+
+### LinkedIn Handle
+
+NGUM BUTLAR NGWA
