@@ -100,7 +100,7 @@
 - GitHub: useking6  https://github.com/uzeking6
 
 #### Name: [NGUM BUTLAR NGWA](https://github.com/Ngumbutlar)
-- Place: Bamenda, Northwest, Cameroon
+- Place: Bamenda, Northwest, Cameroon.
 - Bio: Aspiring Web developer, Junior UI/UX designer
 - GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
 
