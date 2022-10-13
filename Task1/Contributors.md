@@ -107,3 +107,15 @@
 
 
 
+#### Name: [NJI MARIETTE THERESE NEH](https://github.com/Nji-Mariette)
+- Place: Bamenda, Northwest, Cameroon
+- Bio: Aspiring Cybersecurity Annalyst and Web development lover
+- GitHub: Nji-Mariette  https://github.com/Nji-Mariette
+
+#### Name: [NGUM BUTLAR NGWA](https://github.com/Ngumbutlar)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Web developer, Junior UI/UX designer
+- GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
+
+
+
