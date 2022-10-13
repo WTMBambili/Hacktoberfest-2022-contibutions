@@ -356,6 +356,7 @@ KOM ZEKING PAULE URSULLA
 
 # NJI MARIETTE THERESE NEH
 
+
 ### Location
 
 Bamenda / Cameroon
@@ -375,3 +376,23 @@ University of Bamenda
 ### LinkedIn Handle
 
 Mariette Therese
+
+# NGUM BUTLAR NGWA
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+- Designing(UI/UX), coding, anime fan, music lover, baking and pastry.
+
+### Profile Link
+
+[Ngumbutlar](https://github.com/Ngumbutlar)
+
+### LinkedIn Handle
+
+NGUM BUTLAR NGWA
