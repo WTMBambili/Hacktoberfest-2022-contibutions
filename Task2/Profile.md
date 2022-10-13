@@ -354,8 +354,8 @@ University of Bamenda
 
 KOM ZEKING PAULE URSULLA
 
+# NJI MARIETTE THERESE NEH
 
-# NGUM BUTLAR NGWA
 
 ### Location
 
@@ -366,6 +366,26 @@ Bamenda / Cameroon
 University of Bamenda
 
 ### Interests
+
+- I love dancing, singing, learning new skills, science
+
+### Profile Link
+
+[Nji-Mariette](https://github.com/Nji-Mariette)
+
+### LinkedIn Handle
+
+Mariette Therese
+
+# NGUM BUTLAR NGWA
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
 
 - Designing(UI/UX), coding, anime fan, music lover, baking and pastry.
 
