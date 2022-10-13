@@ -176,6 +176,21 @@ This projects does......
 
 The project focuses on the services which will consume requests from our mobile and web applications.
 
+
+
+### Favorite Programming language
+
+- Python
+- Javascript
+
+### Project link
+
+[Ngumbutlar](https://github.com/Ngumbutlar/Simple-Calculator.git)(https://github.com/Ngumbutlar/Assignments.git)
+
+### Little project bio
+
+The goal of the projects is to expand existing knowledge in Javascript  and python
+
 ### Favorite Programming language
 
 - Python
@@ -188,4 +203,5 @@ The project focuses on the services which will consume requests from our mobile 
 ### Little project bio
 
 A project which helps understand python by providong some tasks to carryout
+
 
