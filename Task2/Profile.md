@@ -354,4 +354,24 @@ University of Bamenda
 
 KOM ZEKING PAULE URSULLA
 
+# NJI MARIETTE THERESE NEH
 
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- I love dancing, singing, learning new skills, science
+
+### Profile Link
+
+[Nji-Mariette](https://github.com/Nji-Mariette)
+
+### LinkedIn Handle
+
+Mariette Therese
