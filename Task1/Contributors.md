@@ -99,6 +99,13 @@
 - Bio: cybersecurity lover
 - GitHub: useking6  https://github.com/uzeking6
 
+#### Name: [Ayush Gupta](https://github.com/ayushgupta4002)
+
+- Place: New Delhi, Delhi, India
+- Bio: Full Stack Web Developer and Blockchain Developer.
+- GitHub: [ayushgupta4002](https://github.com/ayushgupta4002)
+
+
 
 #### Name: [NJI MARIETTE THERESE NEH](https://github.com/Nji-Mariette)
 - Place: Bamenda, Northwest, Cameroon
