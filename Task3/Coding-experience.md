@@ -22,17 +22,17 @@ steph237 (https://github.com/steph237/WTM-GDG-Bambili-30-Days-of-Code-Datascienc
 
 A #0 day challenge for learning Data science using python
 
-
-
 ### Favorite Programming language
+
 -Javascript
 
 ### Project link
+
 [Yekov Cindy](https://github.com/tcyekov/50-coding-challenges)
 
 ### Little project bio
-This project helps to understand Javascript by providing exercises to solve.
 
+This project helps to understand Javascript by providing exercises to solve.
 
 ### Favorite Programming language
 
@@ -59,9 +59,8 @@ A model that analyses the sentiment of a text
 
 A note making app build in ReactJS
 
-
-
 ### Favorite Programming language
+
 - C++
 
 [lifeashaze](https://github.com/lifeashaze/Hazikeen)
@@ -86,7 +85,6 @@ petramma (https://github.com/petramma/WTM-GDG-Bambili-30-Days-of-Code-flutter)
 
 A 30 day challenge for learning flutter using dart
 
-
 ### Favorite Programming language
 
 - Python
@@ -99,24 +97,21 @@ NnamEl (https://github.com/NnamEl/WTM-GDG-Bambili-30-Days-of-Code-Datascience)
 
 A 30 day challenge for learning Data science using python
 
-
 ### Favorite Programming language
 
-  - Python
-  - Javascript
-  - R
+- Python
+- Javascript
+- R
 
-  ### Project link
+### Project link
 
-  [AnantJainn](https://github.com/AnantJainn/Zoom-Clone.git)
+[AnantJainn](https://github.com/AnantJainn/Zoom-Clone.git)
 
-  ### Little project bio
+### Little project bio
 
-  This helps people to connect via video call and chat with each other in real-time.
-  
+This helps people to connect via video call and chat with each other in real-time.
 
-
- ### Favorite Programming language
+### Favorite Programming language
 
 - Python
 
@@ -127,8 +122,6 @@ maviatech (https://github.com/maviatech/WTM-GDG-Bambili-30-Days-of-Code-Datascie
 ### Little project bio
 
 A 30 day challenge for learning Data science using python
-
-  
 
 ### Favorite Programming language
 
@@ -142,11 +135,6 @@ A 30 day challenge for learning Data science using python
 ### Little project bio
 
 A mobile application which generates customisable paylinks to recieve payments
-
-
-
-
-
 
 ### Favorite Programming language
 
@@ -176,7 +164,6 @@ This projects does......
 
 The project focuses on the services which will consume requests from our mobile and web applications.
 
-
 ### Favorite Programming language
 
 - Javascript
@@ -191,8 +178,6 @@ The project focuses on the services which will consume requests from our mobile 
 
 A project that displays live prices of top cryptocurrencies.
 
-
-
 ### Favorite Programming language
 
 - Python
@@ -204,7 +189,7 @@ A project that displays live prices of top cryptocurrencies.
 
 ### Little project bio
 
-The goal of the projects is to expand existing knowledge in Javascript  and python
+The goal of the projects is to expand existing knowledge in Javascript and python
 
 ### Favorite Programming language
 
@@ -219,5 +204,15 @@ The goal of the projects is to expand existing knowledge in Javascript  and pyth
 
 A project which helps understand python by providong some tasks to carryout
 
+### Favorite Programming language
 
+- Java
+- Javascript
 
+### Project link
+
+[Tushar Aggarwal](https://github.com/beingatushar/ping-pong-score-keeper)
+
+### Little project bio
+
+This projects helps to keep track of score in ping pong game
