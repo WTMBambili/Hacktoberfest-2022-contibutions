@@ -42,7 +42,6 @@ steph237 (https://github.com/steph237)
 
 Stephanie Nkwatoh
 
-
 # Nnam Eleanor
 
 ### Location
@@ -57,7 +56,6 @@ Masters in Educational leadership
 
 - Food, music, helping.
 
-
 ### Profile Link
 
 NnmaEl (https://github.com/NnamEl)
@@ -66,7 +64,6 @@ NnmaEl (https://github.com/NnamEl)
 
 Nnam Eleanor
 
-
 # Hawawou Oumarou
 
 ### Location
@@ -74,6 +71,7 @@ Nnam Eleanor
 Bamenda, Cameroon
 
 ### Academics
+
 Bachelor's of Engineering
 
 ### Interests
@@ -91,18 +89,20 @@ Hawawou Oumarou
 # Yekov Cindy
 
 ### Academics
+
 National Higher Polytechnic Institute Bamenda
 
 ### Interests
+
 fashion, pastry, novels
 
 ### Profile Link
+
 [Yekov Cindy](https://github.com/tcyekov)
 
 ### LinkedIn Handle
 
 Yekov Cindy
-
 
 # Gauranshi Gupta
 
@@ -125,8 +125,6 @@ Hillwoods Academy
 ### LinkedIn Handle
 
 Gauranshi Gupta
-
-
 
 # Abhishek Bhagawati
 
@@ -172,9 +170,7 @@ Bachelor's of Technology, Vishwakarma Institute of Information Technology
 
 Hiya Shivnani
 
-
 # Petra Agien
-
 
 ### Location
 
@@ -195,7 +191,6 @@ petramma (https://github.com/petramma)
 ### LinkedIn Handle
 
 agien petra
-
 
 # Steve Yonkeu
 
@@ -219,7 +214,6 @@ University of Bamenda
 
 Yokwejuste
 
-
 # Anant Jain
 
 ### Location
@@ -241,7 +235,6 @@ Coding, Sports
 ### LinkedIn Handle
 
 Anant Jain
-
 
 # Vishal
 
@@ -283,8 +276,6 @@ Coding, teaching
 
 Maviatech
 
-
-
 # Earl Millen
 
 ### Location
@@ -306,9 +297,6 @@ University of Bamenda
 ### LinkedIn Handle
 
 Earl Millen
-
-
-
 
 # Zhoplo
 
@@ -344,7 +332,7 @@ University of Bamenda
 
 ### Interests
 
-- i love Music, graphics,singing 
+- i love Music, graphics,singing
 
 ### Profile Link
 
@@ -355,7 +343,6 @@ University of Bamenda
 KOM ZEKING PAULE URSULLA
 
 # NJI MARIETTE THERESE NEH
-
 
 # Ayush Gupta
 
@@ -378,7 +365,6 @@ Coding, Reading
 ### LinkedIn Handle
 
 Ayush Gupta
-
 
 ### Location
 
@@ -420,3 +406,24 @@ University of Bamenda
 
 NGUM BUTLAR NGWA
 
+# Tushar Aggarwal
+
+### Location
+
+New Delhi, India
+
+### Academics
+
+Maharaja Agrasen Institute Of Technology
+
+### Interests
+
+Coding, chess and sleeping
+
+### Profile Link
+
+[Tushar Aggarwal ](https://github.com/beingatushar)
+
+### LinkedIn Handle
+
+beingatushar
