@@ -219,5 +219,17 @@ The goal of the projects is to expand existing knowledge in Javascript  and pyth
 
 A project which helps understand python by providong some tasks to carryout
 
+### Favorite Programming language
 
+- Python
+- Javascript
+- Typescript
+
+### Project link
+
+[mofirojean](https://github.com/mofirojean/50-Coding-Challenge.git)
+
+### Little project bio
+
+The goal of the projects is to expand existing knowledge in Javascript, python and Typescript
 
