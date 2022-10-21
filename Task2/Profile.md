@@ -420,3 +420,24 @@ University of Bamenda
 
 NGUM BUTLAR NGWA
 
+# MOFIRO MOUGANG JEAN CHUNGONG
+
+### Location
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+- i love reading books, anime, coding, music lover, drawing and singing
+
+### Profile Link
+
+[mofirojean](https://github.com/mofirojean)
+
+### LinkedIn Handle
+
+MOFIRO JEAN
