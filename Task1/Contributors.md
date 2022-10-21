@@ -112,10 +112,15 @@
 - Bio: Aspiring Cybersecurity Annalyst and Web development lover
 - GitHub: Nji-Mariette  https://github.com/Nji-Mariette
 
-#### Name: [NGUM BUTLAR NGWA](https://github.com/Ngumbutlar)
-- Place: Bamenda, Northwest, Cameroon.
+#### Name: [NGUM BUTLAR NGWA](https://.githubcom/Ngumbutlar)
+- Pcela: Bamenda, Northwest, Cameroon.
 - Bio: Aspiring Web developer, Junior UI/UX designer
 - GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
+
+#### Name: [SHENYUY GOODNESS-DIVINE TATA](https://.githubcom/shenyuygoodness)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Cybersecurity agent and Ethical hacker
+- GitHub: [shenyuygoodness](https://github.com/shenyuygoodness)
 
 
 
