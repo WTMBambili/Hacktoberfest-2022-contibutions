@@ -117,5 +117,8 @@
 - Bio: Aspiring Web developer, Junior UI/UX designer
 - GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
 
-
+#### Name: [MOFIRO MOUGANG JEAN CHUNGONG](https://github.com/mofirojean)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Web developer, Junior Python Developer
+- GitHub: [mofirojean](https://github.com/mofirojean)
 
