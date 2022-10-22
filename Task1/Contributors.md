@@ -117,5 +117,7 @@
 - Bio: Aspiring Web developer, Junior UI/UX designer
 - GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
 
-
-
+#### Name: [SHENYUY GOODNESS-DIVINE TATA](https://github.com/shenyuygoodness)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Cybersecurity agent and Ethical hacker
+- GitHub: [shenyyuygoodness](https://github.com/shenyuygoodness)
