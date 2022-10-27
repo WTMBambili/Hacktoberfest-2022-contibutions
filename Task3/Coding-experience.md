@@ -219,5 +219,15 @@ The goal of the projects is to expand existing knowledge in Javascript  and pyth
 
 A project which helps understand python by providong some tasks to carryout
 
+### Project link
 
+[shenyuygoodness](https://github.com/shenyuygoodness/Calculator-desktop-app)
 
+### Favorite Programming language
+
+- Python
+- C
+- C#
+
+### Little Project bio
+This project was aimed at learning how to interact with Andriod Studio. 
