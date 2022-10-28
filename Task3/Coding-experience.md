@@ -220,4 +220,17 @@ The goal of the projects is to expand existing knowledge in Javascript  and pyth
 A project which helps understand python by providong some tasks to carryout
 
 
+### Favorite Programming language
+
+- Python
+- Javascript
+
+### Project link
+
+[Ida Delphine](https://github.com/Idadelveloper/portfolio-site)
+
+### Little project bio
+
+My portfolio website
+
 
