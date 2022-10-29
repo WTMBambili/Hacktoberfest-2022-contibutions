@@ -118,6 +118,12 @@
 - GitHub: [Ngumbutlar](https://github.com/Ngumbutlar)
 
 
+#### Name: [MOFIRO MOUGANG JEAN CHUNGONG](https://github.com/mofirojean)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Web developer, Junior Python Developer
+- GitHub: [mofirojean](https://github.com/mofirojean)
+
+
 #### Name: [SHENYUY GOODNESS-DIVINE TATA](https://github.com/shenyuygoodness)
 - Place: Bamenda, Northwest, Cameroon.
 - Bio: Aspiring Cybersecurity agent and Ethical hacker
@@ -127,6 +133,7 @@
 - Place: Bamenda, Northwest, Cameroon.
 - Bio: Software Developer
 - GitHub: [Idadelveloper](https://github.com/idadelveloper)
+
 
 
 
