@@ -420,6 +420,7 @@ University of Bamenda
 
 NGUM BUTLAR NGWA
 
+
 # SHENYUY GOODNESS-DIVINE TATA
 
 ### Location 
@@ -441,3 +442,27 @@ University of Bamenda
 ### LinkedIn Handle
 
 SHENYUY GOODNESS-DIVINE TATA
+
+
+# Ida Delphine
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Engineering
+
+### Interests
+
+- Browsing, coding
+
+### Profile Link
+
+Idadelveloper (https://github.com/idadelveloper)
+
+### LinkedIn Handle
+
+Ida Delphine
+
