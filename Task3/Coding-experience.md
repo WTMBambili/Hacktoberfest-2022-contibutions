@@ -247,3 +247,19 @@ This project was aimed at learning how to interact with Andriod Studio.
 ### Little project bio
 
 My portfolio website
+
+
+
+### Favorite Programming language
+
+- Python
+- Javascript
+- TypeScript
+
+### Project link
+
+[mofirojean](https://github.com/mofirojean/50-Coding-Challenge)
+
+### Little project bio
+
+A 50 coding challenge on the various programming languages
