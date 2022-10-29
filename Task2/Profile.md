@@ -420,3 +420,72 @@ University of Bamenda
 
 NGUM BUTLAR NGWA
 
+
+# SHENYUY GOODNESS-DIVINE TATA
+
+### Location 
+
+Bamenda / Cameroon
+
+### Academics
+
+University of Bamenda
+
+### Interests
+
+-Problem solving, watching movies, food testing and grading, puzzles and riddles
+
+### Profile Link
+
+[shenyuygoodness](https://github.com/shenyuygoodness)
+
+### LinkedIn Handle
+
+SHENYUY GOODNESS-DIVINE TATA
+
+
+# Ida Delphine
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+Bachelor's of Engineering
+
+### Interests
+
+- Browsing, coding
+
+### Profile Link
+
+Idadelveloper (https://github.com/idadelveloper)
+
+### LinkedIn Handle
+
+Ida Delphine
+
+
+# MOFIRO MOUGANG JEAN CHUNGONG
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+University Of Bamenda
+
+### Interests
+
+- Browsing, coding, problem solving, music and drawing
+
+### Profile Link
+
+Idadelveloper (https://github.com/mofirojean)
+
+### LinkedIn Handle
+
+Mofiro Jean
+

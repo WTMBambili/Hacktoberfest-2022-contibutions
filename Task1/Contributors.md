@@ -120,6 +120,29 @@
 
 #### Name: [TUSHAR AGGARWAL](https://github.com/beingatushar)
 
+
 - Place: New Delhi, India.
 - Bio: Web developer, Software Engineer
 - GitHub: [Tushar Aggarwal](https://github.com/beingatushar)
+
+#### Name: [MOFIRO MOUGANG JEAN CHUNGONG](https://github.com/mofirojean)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Web developer, Junior Python Developer
+- GitHub: [mofirojean](https://github.com/mofirojean)
+
+
+#### Name: [SHENYUY GOODNESS-DIVINE TATA](https://github.com/shenyuygoodness)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring Cybersecurity agent and Ethical hacker
+- GitHub: [shenyyuygoodness](https://github.com/shenyuygoodness)
+
+#### Name: [Ida Delphine](https://idadelveloper.com)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Software Developer
+- GitHub: [Idadelveloper](https://github.com/idadelveloper)
+
+
+
+
+
+
