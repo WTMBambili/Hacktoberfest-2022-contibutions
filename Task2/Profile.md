@@ -466,3 +466,26 @@ Idadelveloper (https://github.com/idadelveloper)
 
 Ida Delphine
 
+
+# MOFIRO MOUGANG JEAN CHUNGONG
+
+### Location
+
+Bamenda, Cameroon
+
+### Academics
+
+University Of Bamenda
+
+### Interests
+
+- Browsing, coding, problem solving, music and drawing
+
+### Profile Link
+
+Idadelveloper (https://github.com/mofirojean)
+
+### LinkedIn Handle
+
+Mofiro Jean
+
