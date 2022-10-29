@@ -191,6 +191,7 @@ A project that displays live prices of top cryptocurrencies.
 
 The goal of the projects is to expand existing knowledge in Javascript and python
 
+
 ### Favorite Programming language
 
 - Python
@@ -215,4 +216,47 @@ A project which helps understand python by providong some tasks to carryout
 
 ### Little project bio
 
+
 This projects helps to keep track of score in ping pong game
+
+
+### Favorite Programming language
+
+- Python
+- C
+- C#
+### Project link
+
+[shenyuygoodness](https://github.com/shenyuygoodness/Calculator-desktop-app)
+
+### Little Project bio
+This project was aimed at learning how to interact with Andriod Studio. 
+
+### Favorite Programming language
+
+- Python
+- Javascript
+
+### Project link
+
+[Ida Delphine](https://github.com/Idadelveloper/portfolio-site)
+
+### Little project bio
+
+My portfolio website
+
+
+
+### Favorite Programming language
+
+- Python
+- Javascript
+- TypeScript
+
+### Project link
+
+[mofirojean](https://github.com/mofirojean/50-Coding-Challenge)
+
+### Little project bio
+
+A 50 coding challenge on the various programming languages
