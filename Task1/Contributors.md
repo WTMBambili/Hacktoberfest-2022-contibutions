@@ -141,8 +141,8 @@
 - Bio: Software Developer
 - GitHub: [Idadelveloper](https://github.com/idadelveloper)
 
-
-
-
-
+#### Name: [KINYUY KELLY BRIGHT BIH](https://github.com/Kinyuykelly)
+- Place: Bamenda, Northwest, Cameroon.
+- Bio: Aspiring web developer and product designer
+- GitHub: [KinyuyKelly](https://github.com/Kinyuykelly)
 
