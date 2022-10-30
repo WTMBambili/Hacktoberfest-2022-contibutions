@@ -498,4 +498,7 @@ Idadelveloper (https://github.com/mofirojean)
 
 Mofiro Jean
 
+### LinkedIn Handle
+
+Kinyuy Kelly
 

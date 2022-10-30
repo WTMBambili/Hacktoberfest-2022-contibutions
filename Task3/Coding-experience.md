@@ -260,3 +260,15 @@ My portfolio website
 ### Little project bio
 
 A 50 coding challenge on the various programming languages
+
+### Favourite programming language
+
+-javascript
+-c#
+
+### Project link
+
+[kinyuykelly](https://github.com/Kinyuykelly/Calculator-Desktop-app)
+
+### Little project bio
+A simple desktop calculator application build in visual studio using c#
